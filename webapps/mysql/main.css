@@ -1,0 +1,10 @@
+body {
+	background-image: url(1.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+#div1 {
+	opacity: 0.8;
+}
